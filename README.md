@@ -1,6 +1,6 @@
 # ResumeGenerator-GPT
 
-ResumeGenerator-GPT is a Python-based resume generator that uses chat GPT to generate resumes. The resume definitions are stored in YAML files, which allows for easy customization and modification.
+ResumeGenerator-GPT - Automated declarative resume generation using artificial intelligence. Supports GPT at the moment.
 
 ## Features
 
