@@ -1,6 +1,6 @@
 # ResumeGenerator-GPT
 
-ResumeGenerator-GPT - Automated declarative resume generation using artificial intelligence. Supports GPT at the moment.
+Automated declarative resume generation using artificial intelligence.
 
 ## Features
 
