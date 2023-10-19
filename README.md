@@ -10,3 +10,4 @@ Automated declarative resume generation using artificial intelligence.
 - Store resume definitions in YAML files for easy modification
 
 ## Installation
+

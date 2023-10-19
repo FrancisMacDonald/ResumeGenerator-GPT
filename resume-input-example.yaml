@@ -30,10 +30,14 @@ education:
     degree: Bachelor of Science in Computer Science
     start_date: 09/2012
     end_date: 05/2016
-    honors: Dean's List (all semesters)
 skills:
   - JavaScript
   - React
   - Node.js
   - SQL
   - Git
+certifications:
+  - name: AWS Certified Solutions Architect - Associate
+    date: 01/2021
+  - name: AWS Certified Developer - Associate
+    date: 01/2021
