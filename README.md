@@ -1,13 +1,13 @@
-# ResumeGenerator-GPT
+# Declarative Resume Generator
 
-Automated declarative resume generation using artificial intelligence.
+Your resume. Defined as code. Generated on demand using the power of artificial intelligence.
 
 ## Features
 
+- Store resume definitions in YAML files for easy maintenance
 - Automatically generate resumes using ChatGPT
 - Validate existing resumes and provide suggestions for improvement
 - Customize resumes for specific job postings
-- Store resume definitions in YAML files for easy modification
 
 ## Installation
 
